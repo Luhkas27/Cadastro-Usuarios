@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Artur Oliveria",
+      "email": "aoliveria@yahoo.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Maria Julia da Silva",
+      "email": "mjds@uol.com.br"
+    },
+    {
+      "name": "Leticia da Silva",
+      "email": "leh@hotmail.com",
+      "id": 3
+    }
+  ]
+}
